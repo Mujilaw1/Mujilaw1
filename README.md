@@ -1,4 +1,4 @@
-Help and support
+<icon help>Help</icon help>and support
 Did this doc help you?
 
 Privacy policy
